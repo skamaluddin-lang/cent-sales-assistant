@@ -1,10 +1,1 @@
-{
-  "name": "CENT Sales Assistant",
-  "short_name": "CENT Sales",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#f5f7fb",
-  "theme_color": "#0b5cff",
-  "description": "CENT Sales Assistant for competitor comparisons and sales objections",
-  "icons": []
-}
+{"name":"CENT Sales Assistant","short_name":"CENT Assistant","start_url":"./","display":"standalone","background_color":"#f6f8fb","theme_color":"#0f172a","icons":[]}
